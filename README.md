@@ -13,7 +13,7 @@
 ## Scope
 
  
-Secure password protection and persona! profile management facilities for admin.
+Secure password protection and personal profile management facilities for admin.
     
 Adding new contacts with detailed filling in of contact information categorized as persona! detai!s, location details.
 
